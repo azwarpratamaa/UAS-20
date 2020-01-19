@@ -1,2 +1,5 @@
 # Project UAS Bahasa Pemrograman
-silakan tuliskan langkah-langkah disertai screenshotnya
+
+## ScreenShot
+
+![image to input](https://github.com/azwarpratamaa/UAS-20/blob/master/Input.png)
